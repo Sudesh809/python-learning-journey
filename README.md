@@ -28,6 +28,11 @@ I'm learning Python and AI integration. This repo contains my practice tasks.
 - Skills: External library usage, real data fetching
 - File: `task4_first_api.py`
 
+**Task 5: Number Guesser Game**
+- Learned: The random module, The while loop, Conditionals (if/elif/else), Error Handling, Tracking Statistics
+- Skills: library usage and loops
+- File: `task5_number_guesser_game.py`
+
 ## What I'm Learning
 
 - Python fundamentals (variables, functions, lists)
